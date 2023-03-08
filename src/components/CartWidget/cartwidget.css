@@ -1,0 +1,24 @@
+.cart-widget {
+    position: flex;
+    justify-content: center;
+    cursor: pointer;
+    width: 30px;
+    height: 50px;
+    padding-right: 10px;
+}
+.cart{
+    margin: 1px;
+    align-items: flex-start;
+    justify-items: start;
+    width: 20px;
+    height: 20px;
+}
+.cart-num {
+    display:inline-block;
+    width: 18px;
+    height: 18px;
+    background-color: rgba(255, 255, 255, 0.361);
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+}
