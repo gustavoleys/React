@@ -1,0 +1,12 @@
+.container-loader{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.flex-container{
+    margin: 10%;
+    width: auto;
+}

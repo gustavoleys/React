@@ -30,3 +30,20 @@ th{
     padding: 15px;
     text-align: center; 
 }
+.colImgDetail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+.imgdetail{
+    width: 100px;
+    height: auto;
+}
+.colTittleDetail{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

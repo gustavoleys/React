@@ -1,0 +1,27 @@
+
+.compra{
+    background-color: rgba(0, 0, 255, 0.357);
+    border-radius: 20px;
+    padding: 20px;
+}
+.Card.Tit{
+    text-align: center;
+    margin: 10px;
+}
+.CardHeader{
+    text-decoration: none;
+    color: black;
+}
+.Icon{
+    margin: 10px 20px;
+}
+.flex-container{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+.flex-container-checkOut{
+    display: flex;
+    justify-content: flex-start;
+    padding: 30px;
+}

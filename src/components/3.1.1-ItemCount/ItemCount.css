@@ -1,0 +1,31 @@
+.divCount{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: auto;
+    border: solid rgba(200, 200, 200, 0.585);
+    border-style: double;
+    border-radius: 10px;
+
+    padding: 10px;
+}
+.addCart{
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.count{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.buttonCount{
+    background-color: rgb(255, 254, 254);
+    width: 50px;
+    color: green;
+    font-size: 20px;
+    font-weight: bolder;
+}
